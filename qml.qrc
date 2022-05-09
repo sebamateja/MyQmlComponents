@@ -1,5 +1,49 @@
 <RCC>
     <qresource prefix="/">
-        <file>main.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/BaseItem.qml</file>
+        <file>qml/MyListModel.qml</file>
+        <file>qml/MyListViewDelegate.qml</file>
+        <file>qml/ListOfComponents.qml</file>
+
+        <file>qml/FancyButton25D/FancyButton25D.qml</file>
+        <file>qml/FancyButton25D/ImageLayer.qml</file>
+        <file>qml/FancyButton25D/SimpleButton25D.qml</file>
+        <file>qml/FancyButton25D/SimpleImageLayer.qml</file>
+
+        <file>images/FancyButton25D/card.png</file>
+        <file>images/FancyButton25D/frontLayer.png</file>
+        <file>images/FancyButton25D/gear_bigger.png</file>
+        <file>images/FancyButton25D/gear_smaller.png</file>
+        <file>images/FancyButton25D/glow.png</file>
+        <file>images/FancyButton25D/hole.png</file>
+        <file>images/FancyButton25D/music1.png</file>
+        <file>images/FancyButton25D/music2.png</file>
+        <file>images/FancyButton25D/preview.png</file>
+        <file>images/FancyButton25D/set1.png</file>
+        <file>images/FancyButton25D/set2.png</file>
+        <file>images/FancyButton25D/shadow.png</file>
+        <file>images/FancyButton25D/specular.png</file>
+
+        <file>qml/FlappyBird/Background.qml</file>
+        <file>qml/FlappyBird/Game.qml</file>
+        <file>qml/FlappyBird/Main.qml</file>
+        <file>qml/FlappyBird/MainMenu.qml</file>
+        <file>qml/FlappyBird/Obstacle.qml</file>
+        <file>qml/FlappyBird/Theme.qml</file>
+
+        <file>images/FlappyBird/bg.png</file>
+        <file>images/FlappyBird/bg-clouds.png</file>
+        <file>images/FlappyBird/bg-forest.png</file>
+        <file>images/FlappyBird/ceiling.png</file>
+        <file>images/FlappyBird/floor.png</file>
+        <file>images/FlappyBird/full-bg.png</file>
+        <file>images/FlappyBird/pipe.png</file>
+        <file>images/FlappyBird/pipe2.png</file>
+        <file>images/FlappyBird/player.png</file>
+
+        <file>qml/LoadingButton/LoadingButton.qml</file>
+
+        <file>images/LoadingButton/play-icon.png</file>
     </qresource>
 </RCC>
